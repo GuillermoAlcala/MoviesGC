@@ -14,7 +14,7 @@ struct OriginalsView: View {
                 VStack {
                     PrincipalView()
                     OriginalsChannel()
-                    Button("dfdf"){
+                    Button("dfdf"){ // Pendiente avanzar con la sección de OriginalsView
                         
                     }
                  }
