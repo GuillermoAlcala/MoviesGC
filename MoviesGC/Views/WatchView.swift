@@ -81,7 +81,7 @@ struct BotonModal:View{
 struct FirstScroll: View {
     var body: some View {
         VStack(alignment: .leading) {
-            Text("A continuaciónn")
+            Text("A continuación")
                 .font(.system(size: 22))
                 .padding(.leading)
             //.padding([.top, .horizontal])
